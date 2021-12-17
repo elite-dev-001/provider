@@ -698,3 +698,6 @@ The complete list of all the objects available is [here](https://pub.dev/documen
 [inheritedwidget]: https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html
 [inheritedprovider]: https://pub.dev/documentation/provider/latest/provider/InheritedProvider-class.html
 [diagnosticabletreemixin]: https://api.flutter.dev/flutter/foundation/DiagnosticableTreeMixin-mixin.html
+
+<!-- Why couldn’t the confirmed bachelor use Git? Because he was
+afraid to commit! -->
